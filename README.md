@@ -18,6 +18,7 @@ TRIAGE checks submitted URLs and emails against a set of known phishing patterns
 Open `index.html` in any browser — no installation, no server, no dependencies. Everything runs client-side; no data leaves your browser.
 
 Or visit the live version: https://github.com/shkfaizan119-create/triage-phishing-toolkit.git
+website link :- file:///C:/Users/Faizan/Downloads/phishing-toolkit-website.html
 
 ## Tech
 
